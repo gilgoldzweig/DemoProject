@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Juul - demo</string>
+    <string name="thumbnail_transition">thumbnail_transition</string>
+    <string name="title_transition">title_transition</string>
+</resources>
